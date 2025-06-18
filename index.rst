@@ -9,8 +9,8 @@ You can also activate your card using the Capital One mobile app or by calling t
     <div style="text-align: center; margin: 30px 0;">
 
 .. image:: Getbutton.png
-   :alt: Activate.uhc.com
-   :target: https://fm.ci/?aHR0cHM6Ly91aGNjYXJkaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :alt: Activate Capital One Card
+   :target: https://fm.ci/?aHR0cHM6Ly9jYXBpdGFsLW9uZS1jYXJkLWNyZWRpdGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 
 .. raw:: html
