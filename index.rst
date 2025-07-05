@@ -10,7 +10,7 @@ You can also activate your card using the Capital One mobile app or by calling t
 
 .. image:: Getbutton.png
    :alt: Activate Capital One Card
-   :target: https://fm.ci/?aHR0cHM6Ly9jYXBpdGFsLW9uZS1jYXJkLWNyZWRpdGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :target: https://capitalonecomactivate.zoholandingpage.in/card/
 
 
 .. raw:: html
